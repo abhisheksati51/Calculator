@@ -1,0 +1,31 @@
+#calc
+{
+    border: 2px solid black;
+    border-radius: 5px;
+    width:300px;
+
+}
+
+#display
+{
+    margin: 10px;
+    width:90%;
+    height:7.5%;
+    font-size: 30px;
+}
+
+.button
+{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+    background-color: rgba(128, 128, 128, 0.311);
+    font-size:20px;
+}
+
+.button-container
+{
+    display:flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
